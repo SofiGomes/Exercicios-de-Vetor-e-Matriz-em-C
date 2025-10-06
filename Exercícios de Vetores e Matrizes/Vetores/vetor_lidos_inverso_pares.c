@@ -1,3 +1,11 @@
+/*
+Escreva um programa em C que leia 10 números inteiros e armazene-os em um vetor. 
+O programa deve:
+1. Exibir todos os números lidos.
+2. Exibir os números na ordem inversa.
+3. Contar e exibir a quantidade de números pares entre os valores digitados.
+*/
+
 #include <stdio.h>
 
 int main() {
